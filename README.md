@@ -3,7 +3,9 @@
 &nbsp;&nbsp;&nbsp;
 
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> I am a developer passionate about solving complex problems through technology. I like to balance my career between technical and managerial skills, so I gained experience analyzing and continually improving software, integrating all of this with the fundamentals of agile development.</p>&nbsp;
+<p align="center">Eu ❤️ resolver grandes desafios usando tecnologia.<br><br>
+
+Sou um desenvolvedor apaixonado por resolver problemas complexos através da tecnologia. Gosto de equilibrar minha carreira entre habilidades técnicas e de gestão, então ganhei experiência analisando e melhorando continuamente software, integrando tudo isso com os fundamentos do desenvolvimento ágil.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=brenoluizdev&theme=radical&mode=weekly" />
