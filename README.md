@@ -8,8 +8,9 @@
 Sou um desenvolvedor apaixonado por resolver problemas complexos através da tecnologia. Gosto de equilibrar minha carreira entre habilidades técnicas e de gestão, então ganhei experiência analisando e melhorando continuamente software, integrando tudo isso com os fundamentos do desenvolvimento ágil.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=brenoluizdev&theme=radical&mode=weekly" />
-<!-- <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" /> -->
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=brenoluizdev&theme=dark&mode=weekly" />
+<br>
+<img width=40% align="center" src="https://github-readme-stats.vercel.app/api?username=brenoluizdev&show_icons=true&theme=dark" />
  </div>
  
  &nbsp;
