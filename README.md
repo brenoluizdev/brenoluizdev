@@ -10,7 +10,6 @@ Sou um desenvolvedor apaixonado por resolver problemas complexos através da tec
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=brenoluizdev&theme=dark&mode=weekly" />
 <br>
-<img width=40% align="center" src="https://github-readme-stats.vercel.app/api?username=brenoluizdev&show_icons=true&theme=dark" />
  </div>
  
  &nbsp;
@@ -66,6 +65,8 @@ Sou um desenvolvedor apaixonado por resolver problemas complexos através da tec
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
+
+<img width=40% align="center" src="https://github-readme-stats.vercel.app/api?username=brenoluizdev&show_icons=true&theme=dark" />
 
 &nbsp;
 &nbsp;
