@@ -48,7 +48,6 @@ Sou um desenvolvedor apaixonado por resolver problemas complexos através da tec
 
 #### Estudando no momento:
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
 
 #### Databases:
