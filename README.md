@@ -73,7 +73,7 @@ Sou um desenvolvedor apaixonado por resolver problemas complexos através da tec
 
 <div> 
 <a href = "mailto:contato.brenoluizpv@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/breno-luiz-650312272/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href="https://www.linkedin.com/in/breno-luiz-18450b333" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
  
 
