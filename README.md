@@ -60,14 +60,6 @@
 
 ---
 
-<!-- TROPHY SECTION -->
-<h2 align="center">🏆 Meus Troféus GitHub</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=brenoluizdev&theme=radical&no-frame=true&row=1&column=7" alt="Troféus do GitHub de Breno Luiz"/>
-</p>
-
----
-
 <!-- ACTIVITY GRAPH SECTION -->
 <h2 align="center">📈 Minha Atividade no GitHub</h2>
 <p align="center">
