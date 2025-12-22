@@ -11,9 +11,9 @@
 
 <!-- ABOUT ME / INTRODUCTION -->
 <p align="center">
-  Olá! Boas-vindas ao meu cantinho digital. Sou um entusiasta da programação e adoro transformar ideias em código funcional e elegante.
-  Minha jornada no desenvolvimento me permitiu explorar diversas tecnologias, desde o frontend vibrante até o backend robusto.
-  Adoro resolver problemas complexos e estou sempre em busca de novos desafios e oportunidades para aprender algo novo.
+  Olá! Boas-vindas ao meu perfil. Sou um entusiasta da programação e amo transformar ideias em código funcional e elegante.
+  Minha jornada no desenvolvimento me permitiu explorar diversas tecnologias, desde o frontend até o backend.
+  Amo resolver problemas complexos e estou sempre em busca de novos desafios e oportunidades para aprender algo novo.
   Navegue pelo meu perfil para conhecer meus projetos e um pouco mais sobre o que faço!
 </p>
 
