@@ -75,14 +75,14 @@
   <a href="https://www.linkedin.com/in/brenoluizdev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:breno.l.souza@outlook.com?subject=Olá%20Breno!" target="_blank">
+  <a href="mailto:brenoluizpv@gmail.com?subject=Olá%20Breno!" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://github.com/brenoluizdev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <!-- Adicione outras redes sociais se desejar, como Twitter, portfólio, etc. -->
-  <a href="https://brenoluizdev.github.io/" target="_blank">
+  <a href="https://brenoluizdev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-10B981?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfólio">
   </a>
 </p>
