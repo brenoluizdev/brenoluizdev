@@ -1,3 +1,4 @@
+<img width="1584" height="396" alt="Black Elegant Modern Personal LinkedIn Banner" src="https://github.com/user-attachments/assets/1b3459f6-ae59-4984-9272-b4d86c05b15f" />
 
 <!-- HEADER SECTION -->
 # <p align="center"> <img src="https://raw.githubusercontent.com/brenoluizdev/brenoluizdev/main/assets/wave.gif" height="30px"> Olá, sou Breno Luiz! </p>
