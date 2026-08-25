@@ -27,7 +27,7 @@ Sou um entusiasta da programação e amo transformar ideias em código funcional
 
 <br/>
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 <table>
   <tr>
@@ -60,7 +60,7 @@ Sou um entusiasta da programação e amo transformar ideias em código funcional
 
 <br/>
 
-## 🛠️ Minhas Habilidades Tecnológicas
+## Minhas Habilidades Tecnológicas
 
 <div align="center">
 
@@ -113,7 +113,7 @@ Sou um entusiasta da programação e amo transformar ideias em código funcional
 
 <br/>
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
 
@@ -128,7 +128,7 @@ Sou um entusiasta da programação e amo transformar ideias em código funcional
 
 <br/>
 
-## 🏆 Troféus
+## Troféus
 
 <div align="center">
   <img src="https://github-trophy.vercel.app/?username=brenoluizdev&theme=radical&no-frame=true&row=1&column=7" alt="Troféus do GitHub" />
@@ -136,7 +136,7 @@ Sou um entusiasta da programação e amo transformar ideias em código funcional
 
 <br/>
 
-## 📈 Minha Atividade no GitHub
+## Minha Atividade no GitHub
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=brenoluizdev&theme=react-dark&hide_border=true" alt="Gráfico de Atividade do GitHub de Breno Luiz"/>
@@ -144,7 +144,7 @@ Sou um entusiasta da programação e amo transformar ideias em código funcional
 
 <br/>
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -158,7 +158,7 @@ Sou um entusiasta da programação e amo transformar ideias em código funcional
 
 <br/>
 
-## 🤝 Vamos nos Conectar!
+## Vamos nos Conectar!
 
 <div align="center">
 
