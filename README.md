@@ -23,6 +23,7 @@ Sou um entusiasta da programação e amo transformar ideias em código funcional
 - 🚀 Trabalhando atualmente em três projetos próprios: **Futhero**, **CodingPlus** e **Myau** (detalhes abaixo 👇)
 - 🌱 Sempre aprendendo algo novo, tanto em desenvolvimento quanto em segurança
 - 💬 Pode me chamar pra falar sobre desenvolvimento fullstack, produtos ou os projetos que estou construindo
+- 🎓 Confira meus [certificados de cursos e formações](https://github.com/brenoluizdev/certificates)
 - 📫 Como me encontrar: veja a seção de contato no final da página
 
 <br/>
@@ -57,6 +58,20 @@ Sou um entusiasta da programação e amo transformar ideias em código funcional
     </td>
   </tr>
 </table>
+
+<br/>
+
+## 🎓 Certificações
+
+<div align="center">
+
+Reúno em um repositório dedicado os certificados de cursos, treinamentos e formações que já concluí.
+
+<a href="https://github.com/brenoluizdev/certificates" target="_blank">
+  <img src="https://img.shields.io/badge/Ver_certificados-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver certificados" />
+</a>
+
+</div>
 
 <br/>
 
