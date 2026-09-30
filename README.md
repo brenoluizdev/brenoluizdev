@@ -33,22 +33,6 @@ Sou um entusiasta da programação e amo transformar ideias em código funcional
 <table>
   <tr>
     <td width="33%" align="center" valign="top">
-      <img src="https://github.com/user-attachments/assets/ab09423d-b894-4253-9509-85411aabaf91" width="100%" alt="Screenshot do Futhero" /><br/>
-      <h3>⚽ Futhero</h3>
-      <p>Jogo web 2D.</p>
-      <a href="https://futhero.com.br" target="_blank">
-        <img src="https://img.shields.io/badge/Visitar_site-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visitar Futhero" />
-      </a>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <img src="https://github.com/user-attachments/assets/bbbaabc3-6f4f-44a0-bb36-c4643d46f28c" width="120" alt="Logo do CodingPlus" /><br/>
-      <h3>👨‍💻 CodingPlus</h3>
-      <p>Comunidade e plataforma de cursos para desenvolvedores.</p>
-      <a href="https://codingplus.com.br" target="_blank">
-        <img src="https://img.shields.io/badge/Visitar_site-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visitar CodingPlus" />
-      </a>
-    </td>
-    <td width="33%" align="center" valign="top">
       <img src="https://github.com/user-attachments/assets/5fa85795-76e9-4595-98b9-25b78c724e52" width="120" alt="Logo do Myau" /><br/>
       <h3>🐾 Myau</h3>
       <p>Empresa institucional focada em animais: adoção, compra de animais e um sistema de PetSitter (passeio, cuidados, banho e tosa).</p>
