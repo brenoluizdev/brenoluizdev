@@ -19,8 +19,8 @@
 
 Sou um entusiasta da programação e amo transformar ideias em código funcional e elegante. Minha jornada no desenvolvimento me permitiu explorar diversas tecnologias, do frontend ao backend — e adoro resolver problemas complexos e ir atrás de novos desafios.
 
-- 🎓 Cursando **Engenharia de Software** na Anhanguera, com planos de fazer pós-graduação em **Cibersegurança**
-- 🚀 Trabalhando atualmente em três projetos próprios: **Futhero**, **CodingPlus** e **Myau** (detalhes abaixo 👇)
+- 🎓 Cursando **Engenharia de Software**, com planos de fazer pós-graduação em **Cibersegurança**
+- 🚀 Trabalhando atualmente em dois projetos próprios: **myau.com.br** e **wardly.com.br** (detalhes abaixo 👇)
 - 🌱 Sempre aprendendo algo novo, tanto em desenvolvimento quanto em segurança
 - 💬 Pode me chamar pra falar sobre desenvolvimento fullstack, produtos ou os projetos que estou construindo
 - 🎓 Confira meus [certificados de cursos e formações](https://github.com/brenoluizdev/certificates)
