@@ -33,7 +33,7 @@ Sou um entusiasta da programação e amo transformar ideias em código funcional
 <table>
   <tr>
     <td width="33%" align="center" valign="top">
-      <img src="" width="120" alt="Logo do Myau" /><br/>
+      <img src="banner_fawcup.png" width="120" alt="Logo do Myau" /><br/>
       <h3>FawCup</h3>
       <p>FawCup é uma plataforma web desenvolvida para facilitar o gerenciamento de campeonatos de futebol amador, centralizando a organização de equipes, partidas, resultados e súmulas em um único sistema. O projeto busca tornar a gestão esportiva mais prática, organizada e eficiente, por meio de uma interface moderna e intuitiva.</p>
       <a href="https://fawcup.com.br" target="_blank">
@@ -41,7 +41,7 @@ Sou um entusiasta da programação e amo transformar ideias em código funcional
       </a>
     </td>
     <td width="33%" align="center" valign="top">
-      <img src="" width="120" alt="Logo do Myau" /><br/>
+      <img src="banner_wardly.png" width="120" alt="Logo do Myau" /><br/>
       <h3>Wardly</h3>
       <p>Plataforma de segurança para empresas: monitora o domínio todos os dias — certificado SSL, versão do TLS, HTTPS, HSTS, CSP, SPF e DMARC — e avisa em português simples quando algo sai do lugar, já com o passo a passo pra corrigir. Verificações 100% passivas, sem instalar nada.</p>
       <a href="https://wardly.com.br" target="_blank">
