@@ -33,6 +33,22 @@ Sou um entusiasta da programação e amo transformar ideias em código funcional
 <table>
   <tr>
     <td width="33%" align="center" valign="top">
+      <img src="" width="120" alt="Logo do Myau" /><br/>
+      <h3>FawCup</h3>
+      <p>FawCup é uma plataforma web desenvolvida para facilitar o gerenciamento de campeonatos de futebol amador, centralizando a organização de equipes, partidas, resultados e súmulas em um único sistema. O projeto busca tornar a gestão esportiva mais prática, organizada e eficiente, por meio de uma interface moderna e intuitiva.</p>
+      <a href="https://fawcup.com.br" target="_blank">
+        <img src="https://img.shields.io/badge/Visitar_site-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visitar Myau" />
+      </a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="" width="120" alt="Logo do Myau" /><br/>
+      <h3>Wardly</h3>
+      <p>Plataforma de segurança para empresas: monitora o domínio todos os dias — certificado SSL, versão do TLS, HTTPS, HSTS, CSP, SPF e DMARC — e avisa em português simples quando algo sai do lugar, já com o passo a passo pra corrigir. Verificações 100% passivas, sem instalar nada.</p>
+      <a href="https://wardly.com.br" target="_blank">
+        <img src="https://img.shields.io/badge/Visitar_site-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visitar Myau" />
+      </a>
+    </td>
+    <td width="33%" align="center" valign="top">
       <img src="https://github.com/user-attachments/assets/5fa85795-76e9-4595-98b9-25b78c724e52" width="120" alt="Logo do Myau" /><br/>
       <h3>🐾 Myau</h3>
       <p>Empresa institucional focada em animais: adoção, compra de animais e um sistema de PetSitter (passeio, cuidados, banho e tosa).</p>
