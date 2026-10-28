@@ -30,16 +30,18 @@ Sou desenvolvedor fullstack e gosto de transformar ideias em produtos reais: do 
 
 ## ZeroOne House
 
+<img src="./zeroonehouse-banner.png" alt="ZeroOne House" />
+
+<br/><br/>
+
+A **ZeroOne House** é a minha software house: a casa por trás de todos os produtos abaixo. Criamos, lançamos e operamos produtos digitais próprios e usamos a mesma base técnica para construir projetos sob medida.
+
 <a href="https://zeroonehouse.com.br">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://zeroonehouse.com.br/images/marca/wordmark-claro.png" />
     <img src="https://zeroonehouse.com.br/images/marca/wordmark-escuro.png" height="28" alt="ZeroOne House" />
   </picture>
 </a>
-
-<br/><br/>
-
-A **ZeroOne House** é a minha software house: a casa por trás de todos os produtos abaixo. Criamos, lançamos e operamos produtos digitais próprios e usamos a mesma base técnica para construir projetos sob medida.
 
 **[zeroonehouse.com.br →](https://zeroonehouse.com.br)**
 
