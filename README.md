@@ -30,7 +30,7 @@ Sou desenvolvedor fullstack e gosto de transformar ideias em produtos reais: do 
 
 ## ZeroOne House
 
-<img src="./zeroonehouse-banner.png" alt="ZeroOne House" />
+<a href="https://zeroonehouse.com.br"><img src="./zeroonehouse-banner.png" width="100%" alt="ZeroOne House: produtos digitais, do zero ao um" /></a>
 
 <br/><br/>
 
