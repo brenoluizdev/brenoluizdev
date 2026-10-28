@@ -1,205 +1,118 @@
 <div align="center">
 
-<img width="1584" height="396" alt="Banner" src="https://github.com/user-attachments/assets/1b3459f6-ae59-4984-9272-b4d86c05b15f" />
+<img width="1584" height="396" alt="Banner de Breno Luiz" src="https://github.com/user-attachments/assets/1b3459f6-ae59-4984-9272-b4d86c05b15f" />
 
-<br/>
+<h1>Breno Luiz</h1>
 
-<img src="https://raw.githubusercontent.com/brenoluizdev/brenoluizdev/main/assets/wave.gif" width="30">
-<h1>Olá, sou o Breno Luiz!</h1>
+<p><strong>Fundador da ZeroOne House</strong> · Desenvolvedor Fullstack · Engenharia de Software</p>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=DDF9F1&center=true&vCenter=true&multiline=true&random=false&width=435&height=100&lines=Desenvolvedor+Fullstack;Apaixonado+por+tecnologia;Sempre+aprendendo+e+criando" alt="Typing SVG" />
-</a>
+<p>Crio e opero produtos SaaS do zero ao deploy, com segurança desde a primeira linha.</p>
+
+<a href="https://zeroonehouse.com.br"><img src="https://img.shields.io/badge/zeroonehouse.com.br-141518?style=flat-square&logoColor=white" alt="ZeroOne House" /></a>
+<a href="https://www.linkedin.com/in/brenoluizdev/"><img src="https://img.shields.io/badge/LinkedIn-141518?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://brenoluizdev.com.br/"><img src="https://img.shields.io/badge/Portfólio-141518?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfólio" /></a>
+<a href="mailto:dev.brenoluiz@gmail.com"><img src="https://img.shields.io/badge/E--mail-141518?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" /></a>
 
 </div>
 
 <br/>
 
-## 👋 Sobre mim
+## Sobre mim
 
-Sou um entusiasta da programação e amo transformar ideias em código funcional e elegante. Minha jornada no desenvolvimento me permitiu explorar diversas tecnologias, do frontend ao backend — e adoro resolver problemas complexos e ir atrás de novos desafios.
+Sou desenvolvedor fullstack e gosto de transformar ideias em produtos reais: do modelo de dados ao design, da cobrança ao servidor em produção. Hoje dedico meu tempo à **ZeroOne House**, a software house onde crio e mantenho meus próprios produtos.
 
-- 🎓 Cursando **Engenharia de Software**, com planos de fazer pós-graduação em **Cibersegurança**
-- 🚀 Trabalhando atualmente em dois projetos próprios: **myau.com.br** e **wardly.com.br** (detalhes abaixo 👇)
-- 🌱 Sempre aprendendo algo novo, tanto em desenvolvimento quanto em segurança
-- 💬 Pode me chamar pra falar sobre desenvolvimento fullstack, produtos ou os projetos que estou construindo
-- 🎓 Confira meus [certificados de cursos e formações](https://github.com/brenoluizdev/certificates)
-- 📫 Como me encontrar: veja a seção de contato no final da página
+- 🎓 Cursando **Engenharia de Software**, com planos de pós-graduação em **Cibersegurança**
+- 🛡️ Segurança não é etapa final: cabeçalhos, controle de acesso no servidor e infraestrutura própria fazem parte de todo projeto
+- 🚀 Do código ao ar: CI no GitHub Actions, imagens Docker, deploy automatizado e monitoramento
+- 📜 Meus [certificados de cursos e formações](https://github.com/brenoluizdev/certificates)
 
 <br/>
 
-## Projetos em destaque
+## ZeroOne House
+
+<a href="https://zeroonehouse.com.br">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://zeroonehouse.com.br/images/marca/wordmark-claro.png" />
+    <img src="https://zeroonehouse.com.br/images/marca/wordmark-escuro.png" height="28" alt="ZeroOne House" />
+  </picture>
+</a>
+
+<br/><br/>
+
+A **ZeroOne House** é a minha software house: a casa por trás de todos os produtos abaixo. Criamos, lançamos e operamos produtos digitais próprios e usamos a mesma base técnica para construir projetos sob medida.
+
+**[zeroonehouse.com.br →](https://zeroonehouse.com.br)**
+
+<br/>
+
+## Produtos da casa
 
 <table>
   <tr>
-    <td width="33%" align="center" valign="top">
-      <img src="banner_fawcup.png" width="120" alt="Logo do Myau" /><br/>
-      <h3>FawCup</h3>
-      <p>FawCup é uma plataforma web desenvolvida para facilitar o gerenciamento de campeonatos de futebol amador, centralizando a organização de equipes, partidas, resultados e súmulas em um único sistema. O projeto busca tornar a gestão esportiva mais prática, organizada e eficiente, por meio de uma interface moderna e intuitiva.</p>
-      <a href="https://fawcup.com.br" target="_blank">
-        <img src="https://img.shields.io/badge/Visitar_site-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visitar Myau" />
-      </a>
+    <td width="50%" valign="top">
+      <a href="https://fawcup.com.br"><img src="https://zeroonehouse.com.br/images/produtos/fawcup.webp" width="100%" alt="FawCup" /></a>
+      <h3>FawCup <sub><code>no ar</code></sub></h3>
+      <p>Plataforma para ligas de futebol amador: equipes, partidas, resultados e súmula digital num só lugar, com portal público para os times e cobrança integrada.</p>
+      <a href="https://fawcup.com.br"><strong>fawcup.com.br →</strong></a>
     </td>
-    <td width="33%" align="center" valign="top">
-      <img src="banner_wardly.png" width="120" alt="Logo do Myau" /><br/>
+    <td width="50%" valign="top">
+      <a href="https://wardly.com.br"><img src="https://zeroonehouse.com.br/images/produtos/wardly.webp" width="100%" alt="Wardly" /></a>
       <h3>Wardly</h3>
-      <p>Plataforma de segurança para empresas: monitora o domínio todos os dias — certificado SSL, versão do TLS, HTTPS, HSTS, CSP, SPF e DMARC — e avisa em português simples quando algo sai do lugar, já com o passo a passo pra corrigir. Verificações 100% passivas, sem instalar nada.</p>
-      <a href="https://wardly.com.br" target="_blank">
-        <img src="https://img.shields.io/badge/Visitar_site-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visitar Myau" />
-      </a>
+      <p>Segurança para empresas: monitora o domínio todos os dias (SSL, versão do TLS, HTTPS, HSTS, CSP, SPF e DMARC) e avisa em português simples quando algo sai do lugar, já com o passo a passo para corrigir. Verificações 100% passivas, sem instalar nada.</p>
+      <a href="https://wardly.com.br"><strong>wardly.com.br →</strong></a>
     </td>
-    <td width="33%" align="center" valign="top">
-      <img src="https://github.com/user-attachments/assets/5fa85795-76e9-4595-98b9-25b78c724e52" width="120" alt="Logo do Myau" /><br/>
-      <h3>🐾 Myau</h3>
-      <p>Empresa institucional focada em animais: adoção, compra de animais e um sistema de PetSitter (passeio, cuidados, banho e tosa).</p>
-      <a href="https://myau.com.br" target="_blank">
-        <img src="https://img.shields.io/badge/Visitar_site-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visitar Myau" />
-      </a>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://ritmero.com.br"><img src="https://zeroonehouse.com.br/images/produtos/ritmero.webp" width="100%" alt="Ritmero" /></a>
+      <h3>Ritmero</h3>
+      <p>Agenda pessoal com metas de tempo mensais, semanais e diárias. Mostra para onde suas horas estão indo e ajuda a manter o ritmo. Funciona como app instalável (PWA).</p>
+      <a href="https://ritmero.com.br"><strong>ritmero.com.br →</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://myau.com.br"><img src="https://zeroonehouse.com.br/images/produtos/myau.webp" width="100%" alt="MyAu" /></a>
+      <h3>MyAu</h3>
+      <p>Tudo para quem ama animais: adoção, compra de pets e um serviço de PetSitter com passeios, cuidados, banho e tosa.</p>
+      <a href="https://myau.com.br"><strong>myau.com.br →</strong></a>
     </td>
   </tr>
 </table>
 
 <br/>
 
-## 🎓 Certificações
+## Stack
 
 <div align="center">
 
-Reúno em um repositório dedicado os certificados de cursos, treinamentos e formações que já concluí.
+**Frontend**<br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,tailwind" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Angular, Vue, Tailwind" />
 
-<a href="https://github.com/brenoluizdev/certificates" target="_blank">
-  <img src="https://img.shields.io/badge/Ver_certificados-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver certificados" />
-</a>
+<br/><br/>
+
+**Backend & dados**<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongodb,mysql,sqlite,supabase" alt="Node.js, Express, NestJS, PostgreSQL, MongoDB, MySQL, SQLite, Supabase" />
+
+<br/><br/>
+
+**Infra, DevOps & ferramentas**<br/><br/>
+<img src="https://skillicons.dev/icons?i=docker,aws,cloudflare,githubactions,git,linux,jest,postman,figma" alt="Docker, AWS, Cloudflare, GitHub Actions, Git, Linux, Jest, Postman, Figma" />
 
 </div>
 
 <br/>
 
-## Minhas Habilidades Tecnológicas
+## No GitHub
 
 <div align="center">
 
-**Frontend**
+<img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=brenoluizdev&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=8b949e&text_color=8b949e&icon_color=8b949e" alt="Estatísticas do GitHub de Breno Luiz" />
+<img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=brenoluizdev&layout=compact&hide_border=true&bg_color=00000000&title_color=8b949e&text_color=8b949e" alt="Linguagens mais usadas" />
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js">
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-
-**Backend**
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
-
-**Bancos de Dados**
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-
-**Cloud & DevOps**
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-
-**Testes**
-
-<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
-<img src="https://img.shields.io/badge/Supertest-25c2a0?style=for-the-badge&logo=supertest&logoColor=white" alt="Supertest">
-
-**Ferramentas & Sistemas**
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-
-</div>
-
-<br/>
-
-## Estatísticas do GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=brenoluizdev&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub de Breno Luiz" />
-<img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=brenoluizdev&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=brenoluizdev&theme=radical&hide_border=true" alt="Streak de contribuições no GitHub" />
-
-</div>
-
-<br/>
-
-## Troféus
-
-<div align="center">
-  <img src="https://github-trophy.vercel.app/?username=brenoluizdev&theme=radical&no-frame=true&row=1&column=7" alt="Troféus do GitHub" />
-</div>
-
-<br/>
-
-## Minha Atividade no GitHub
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brenoluizdev&theme=react-dark&hide_border=true" alt="Gráfico de Atividade do GitHub de Breno Luiz"/>
-</div>
-
-<br/>
-
-## Contribution Snake
-
-<div align="center">
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brenoluizdev/brenoluizdev/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brenoluizdev/brenoluizdev/output/github-contribution-grid-snake.svg" />
-  <img alt="Animação da cobra comendo minhas contribuições no GitHub" src="https://raw.githubusercontent.com/brenoluizdev/brenoluizdev/output/github-contribution-grid-snake.svg" />
+  <img alt="Cobra percorrendo o gráfico de contribuições" src="https://raw.githubusercontent.com/brenoluizdev/brenoluizdev/output/github-contribution-grid-snake.svg" />
 </picture>
 
-</div>
-
-<br/>
-
-## Vamos nos Conectar!
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/brenoluizdev/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:dev.brenoluiz@gmail.com?subject=Olá%20Breno!" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-<a href="https://github.com/brenoluizdev" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="https://brenoluizdev.com.br/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfólio-10B981?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfólio">
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=brenoluizdev&color=lightgrey&label=Visitas%20ao%20perfil" alt="Contador de Visitas"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&lang=pt" alt="Citação Motivacional"/>
 </div>
