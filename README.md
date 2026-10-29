@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="1584" height="396" alt="Banner de Breno Luiz" src="https://github.com/user-attachments/assets/1b3459f6-ae59-4984-9272-b4d86c05b15f" />
+<img alt="Banner de Breno Luiz" src="/banner_breno" />
 
 <br/>
 
