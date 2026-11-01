@@ -49,7 +49,7 @@ na demonstração.
 Aberto a posições **fullstack, backend ou plataforma**, em produto próprio ou time
 de engenharia.
 
-- **Modelo:** remoto (Brasil ou internacional) · CLT ou PJ
+- **Modelo:** Remoto / Híbrido / Presencial · CLT ou PJ
 - **No dia a dia:** TypeScript/Node, React/Next.js, Flutter, Docker e CI
 - **O que levo:** experiência de ponta a ponta — arquitetura, implementação, deploy e operação
 - **Idiomas:** português nativo, inglês técnico
