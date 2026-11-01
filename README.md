@@ -44,6 +44,21 @@ na demonstração.
 
 ---
 
+## O que estou buscando
+
+Aberto a posições **fullstack, backend ou plataforma**, em produto próprio ou time
+de engenharia.
+
+- **Modelo:** remoto (Brasil ou internacional) · CLT ou PJ
+- **No dia a dia:** TypeScript/Node, React/Next.js, Flutter, Docker e CI
+- **O que levo:** experiência de ponta a ponta — arquitetura, implementação, deploy e operação
+- **Idiomas:** português nativo, inglês técnico
+
+Se fizer sentido, me chama no [LinkedIn](https://www.linkedin.com/in/brenoluizdev/)
+ou por [e-mail](mailto:dev.brenoluiz@gmail.com).
+
+---
+
 ## Em produção
 
 Produtos que eu idealizei, construí e mantenho em operação.
@@ -119,6 +134,21 @@ Código que dá para abrir, rodar e ler os testes.
 
 ---
 
+## English
+
+Software engineer and founder of [ZeroOne House](https://zeroonehouse.com.br). I build and
+operate fullstack products end to end: TypeScript/Node and React/Next.js on the web,
+Flutter on mobile, Docker and CI in production.
+
+Currently open to **fullstack, backend or platform** roles (remote, Brazil or international).
+Featured work: [core-access-manager](https://github.com/brenoluizdev/core-access-manager),
+[bonktools](https://github.com/brenoluizdev/bonktools) and
+[zeroonehouse-cases](https://github.com/brenoluizdev/zeroonehouse-cases).
+
+Contact: [dev.brenoluiz@gmail.com](mailto:dev.brenoluiz@gmail.com)
+
+---
+
 <div align="center">
 
 ### Do zero ao um. Do código à produção.
@@ -128,6 +158,6 @@ Código que dá para abrir, rodar e ler os testes.
 <a href="https://www.linkedin.com/in/brenoluizdev/">LinkedIn</a> ·
 <a href="mailto:dev.brenoluiz@gmail.com">dev.brenoluiz@gmail.com</a>
 
-<sub>Goiânia, GO — aberto a oportunidades remotas.</sub>
+<sub>Goiânia, GO · remoto</sub>
 
 </div>
