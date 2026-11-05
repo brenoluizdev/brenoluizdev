@@ -1,163 +1,151 @@
-<div align="center">
+ <div align="center">
 
 <img src="./banner_breno.png" alt="Breno Luiz — Software Engineer" width="100%" />
 
 # Breno Luiz
 
-**Software Engineer** · Fullstack · Fundador da [ZeroOne House](https://zeroonehouse.com.br)
+**Software Engineer · Fullstack · Founder of ZeroOne House**
 
-Transformo ideias em produtos digitais: da arquitetura e interface ao deploy e à operação.
+Building digital products from architecture to production.
 
-<br/>
-
-<a href="https://zeroonehouse.com.br">
-  <img src="https://img.shields.io/badge/ZeroOne_House-141518?style=for-the-badge&logoColor=white" alt="ZeroOne House"/>
-</a>
-<a href="https://www.linkedin.com/in/brenoluizdev/">
-  <img src="https://img.shields.io/badge/LinkedIn-141518?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://brenoluizdev.com.br/">
-  <img src="https://img.shields.io/badge/Portfólio-141518?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"/>
-</a>
-<a href="mailto:dev.brenoluiz@gmail.com">
-  <img src="https://img.shields.io/badge/Contato-141518?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
-</a>
+[![ZeroOne House](https://img.shields.io/badge/ZeroOne_House-141518?style=for-the-badge)](https://zeroonehouse.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-141518?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brenoluizdev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-141518?style=for-the-badge&logo=googlechrome)](https://brenoluizdev.com.br/)
+[![Email](https://img.shields.io/badge/Contact-141518?style=for-the-badge&logo=gmail)](mailto:dev.brenoluiz@gmail.com)
 
 </div>
 
 ---
 
-## Sobre
+## About
 
-Sou desenvolvedor fullstack e fundador da **ZeroOne House**, onde concebo, desenvolvo e
-**opero** produtos digitais próprios — do modelo de dados à infraestrutura.
+I'm a software engineer and founder of **[ZeroOne House](https://zeroonehouse.com.br)**, where I design, build and operate digital products — from database architecture and user interfaces to infrastructure and deployment.
 
-Trabalho principalmente com **TypeScript** (React/Next.js no front, Node.js/NestJS no back),
-**Flutter** para mobile e **Docker/CI** para colocar coisa no ar. Também estudo segurança de
-aplicações: o foco hoje é construir software que se sustenta em produção, não só que funciona
-na demonstração.
+My main stack revolves around **TypeScript, React, Next.js and Node.js**, with experience in Flutter, backend architecture, databases, Docker and CI/CD.
 
-- 🎓 Cursando Engenharia de Software
-- 🚀 Quatro produtos próprios no ar: **FawCup**, **Wardly**, **Ritmero** e **MyAu**
-- 🛡️ Segurança de aplicações: hardening, monitoramento e correção
-- 📜 [Certificados e formações](https://github.com/brenoluizdev/certificates)
+I'm also continuously developing my knowledge of **application security**, focusing on building reliable, maintainable and secure software.
 
----
+- 🎓 Software Engineering student
+- 🚀 Founder building and operating five digital products
+- 🛡️ Interested in application security and cybersecurity
+- 📚 Always learning, experimenting and building
+- 📜 [Certificates & Training](https://github.com/brenoluizdev/certificates)
 
-## O que estou buscando
+## What I do
 
-Aberto a posições **fullstack, backend ou plataforma**, em produto próprio ou time
-de engenharia.
+| Area | Technologies |
+| --- | --- |
+| Frontend | React, Next.js, TypeScript, Tailwind CSS |
+| Backend | Node.js, Express, NestJS, REST APIs |
+| Mobile | Flutter |
+| Databases | PostgreSQL, MongoDB, MySQL, SQLite |
+| Infrastructure | Docker, Linux, Cloudflare, AWS |
+| Engineering | Git, GitHub Actions, CI/CD, Automated Testing |
+| Other | Go, C#, .NET, Electron |
 
-- **Modelo:** Remoto / Híbrido / Presencial · CLT ou PJ
-- **No dia a dia:** TypeScript/Node, React/Next.js, Flutter, Docker e CI
-- **O que levo:** experiência de ponta a ponta — arquitetura, implementação, deploy e operação
-- **Idiomas:** português nativo, inglês técnico
+## Products in production
 
-Se fizer sentido, me chama no [LinkedIn](https://www.linkedin.com/in/brenoluizdev/)
-ou por [e-mail](mailto:dev.brenoluiz@gmail.com).
+Digital products designed, developed and operated through **ZeroOne House**.
 
----
-
-## Em produção
-
-Produtos que eu idealizei, construí e mantenho em operação.
-
-| Produto | O que resolve | |
+| Product | Description | Website |
 | --- | --- | :---: |
-| **FawCup** | Gestão de campeonatos amadores: equipes, atletas, partidas, classificações e súmulas digitais, com portal público e cobrança integrada. | [↗](https://fawcup.com.br) |
-| **Wardly** | Monitoramento contínuo da configuração de segurança de domínios — TLS, HTTPS, HSTS, CSP, SPF e DMARC — com alertas e orientação de correção. | [↗](https://wardly.com.br) |
-| **Ritmero** | Planejamento pessoal com metas diárias, semanais e mensais para enxergar onde o tempo está indo. Instalável como PWA. | [↗](https://ritmero.com.br) |
-| **MyAu** | Plataforma de serviços para animais de estimação, conectando tutores a serviços, cuidados e adoção. | [↗](https://myau.com.br) |
+| **FawBrain** | Learning platform for public exams, university entrance exams and ENEM. Features previous exam questions, commented alternatives, timed mock exams and performance tracking. | [↗](https://fawbrain.com.br) |
+| **FawCup** | Amateur football championship management: teams, players, fixtures, standings, referee assignments and digital match reports. | [↗](https://fawcup.com.br) |
+| **Wardly** | Continuous domain security monitoring, covering TLS, HTTPS, HSTS, CSP, SPF and DMARC, with alerts and remediation guidance. | [↗](https://wardly.com.br) |
+| **Ritmero** | Personal planning platform for managing daily, weekly and monthly goals and understanding how time is spent. | [↗](https://ritmero.com.br) |
+| **MyAu** | Pet services platform connecting owners with animal care, services and adoption opportunities. | [↗](https://myau.com.br) |
 
-Arquitetura, escopo e decisões de cada um: **[zeroonehouse-cases](https://github.com/brenoluizdev/zeroonehouse-cases)**.
+Explore the architecture, product scope and engineering decisions behind these projects:
 
----
+**[ZeroOne House — Case Studies](https://github.com/brenoluizdev/zeroonehouse-cases)**
 
-## Projetos em destaque
+## Selected engineering projects
 
-Código que dá para abrir, rodar e ler os testes.
+Open-source tools, experiments and engineering projects.
 
-| Projeto | O que é | Stack |
+| Project | Description | Stack |
 | --- | --- | --- |
-| **[core-access-manager](https://github.com/brenoluizdev/core-access-manager)** | API + painel de usuários com JWT, RBAC, 45 testes e CI em Node 22/24. | `TypeScript` `Express` `Next.js` |
-| **[bonktools](https://github.com/brenoluizdev/bonktools)** | Cliente headless para bonk.io via Socket.IO, publicado no npm. Sem browser, sem Chromium. | `TypeScript` `Socket.IO` |
-| **[sefaz-monitor](https://github.com/brenoluizdev/sefaz-monitor)** | App de bandeja que monitora a disponibilidade da SEFAZ por UF, com backoff exponencial e auto-update. | `Go` `Win32` |
-| **[claude-account-switcher](https://github.com/brenoluizdev/claude-account-switcher)** | Utilitário de bandeja para alternar entre contas isoladas do Claude Code CLI. | `C#` `.NET 8` |
-| **[Futhero-Desktop](https://github.com/brenoluizdev/Futhero-Desktop)** | Launcher Electron para bonk.io e Haxball, com isolamento de segurança e empacotamento AppX. | `Electron` `TypeScript` |
-| **[zeroonehouse-cases](https://github.com/brenoluizdev/zeroonehouse-cases)** | Estudos de caso dos produtos da ZeroOne House: problema, solução e arquitetura. | `Docs` |
+| [**core-access-manager**](https://github.com/brenoluizdev/core-access-manager) | User management API and dashboard with JWT authentication, RBAC, 45 tests and CI. | `TypeScript` `Express` `Next.js` |
+| [**bonktools**](https://github.com/brenoluizdev/bonktools) | Headless TypeScript client for bonk.io using Socket.IO. No browser or Chromium required. | `TypeScript` `Socket.IO` |
+| [**sefaz-monitor**](https://github.com/brenoluizdev/sefaz-monitor) | Windows tray application monitoring SEFAZ availability across Brazilian states. | `Go` `Win32` |
+| [**claude-account-switcher**](https://github.com/brenoluizdev/claude-account-switcher) | Windows utility for switching between isolated Claude Code CLI accounts. | `C#` `.NET 8` |
+| [**Futhero-Desktop**](https://github.com/brenoluizdev/Futhero-Desktop) | Desktop launcher for bonk.io and Haxball with security isolation and AppX packaging. | `Electron` `TypeScript` |
+| [**zeroonehouse-cases**](https://github.com/brenoluizdev/zeroonehouse-cases) | Product case studies documenting problems, solutions and architecture decisions. | `Documentation` |
 
----
-
-## Stack
+## Technology stack
 
 <div align="center">
 
-**Frontend & mobile**
+**Frontend & Mobile**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,flutter" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind e Flutter"/>
-
-<br/><br/>
-
-**Backend & dados**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongodb,mysql,sqlite,supabase" alt="Node.js, Express, NestJS, PostgreSQL, MongoDB, MySQL, SQLite e Supabase"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,flutter" alt="Frontend and mobile technologies" />
 
 <br/><br/>
 
-**Infra & DevOps**
+**Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=docker,aws,cloudflare,githubactions,git,linux,go,dotnet" alt="Docker, AWS, Cloudflare, GitHub Actions, Git, Linux, Go e .NET"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongodb,mysql,sqlite,supabase" alt="Backend and database technologies" />
 
 <br/><br/>
 
-**Testes & ferramentas**
+**Infrastructure & DevOps**
 
-<img src="https://skillicons.dev/icons?i=vitest,jest,postman,figma" alt="Vitest, Jest, Postman e Figma"/>
+<img src="https://skillicons.dev/icons?i=docker,aws,cloudflare,githubactions,git,linux,go,dotnet" alt="Infrastructure and DevOps technologies" />
+
+<br/><br/>
+
+**Testing & Tools**
+
+<img src="https://skillicons.dev/icons?i=vitest,jest,postman,figma" alt="Testing and development tools" />
 
 </div>
 
----
-
-## GitHub em números
+## GitHub activity
 
 <div align="center">
 
 <a href="https://github.com/brenoluizdev">
-  <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=brenoluizdev&show_icons=true&hide_border=true&bg_color=00000000&title_color=4ade80&text_color=8b949e&icon_color=4ade80&include_all_commits=true" alt="Estatísticas do GitHub"/>
+<img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=brenoluizdev&show_icons=true&hide_border=true&bg_color=00000000&title_color=4ade80&text_color=8b949e&icon_color=4ade80&include_all_commits=true" alt="GitHub statistics" />
 </a>
+
 <a href="https://github.com/brenoluizdev">
-  <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=brenoluizdev&layout=compact&hide_border=true&bg_color=00000000&title_color=4ade80&text_color=8b949e" alt="Linguagens mais utilizadas"/>
+<img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=brenoluizdev&layout=compact&hide_border=true&bg_color=00000000&title_color=4ade80&text_color=8b949e" alt="Most used programming languages" />
 </a>
 
 </div>
 
----
+## Currently open to opportunities
+
+Interested in **Fullstack, Backend and Platform Engineering** opportunities.
+
+- **Work model:** Remote, hybrid or on-site
+- **Contract:** Full-time or freelance
+- **Focus:** TypeScript, Node.js, React, Next.js, Flutter and Docker
+- **Approach:** End-to-end product engineering, from architecture to production
+- **Languages:** Native Portuguese · Technical English
+
+Feel free to connect through [LinkedIn](https://www.linkedin.com/in/brenoluizdev/) or [email](mailto:dev.brenoluiz@gmail.com).
 
 ## English
 
-Software engineer and founder of [ZeroOne House](https://zeroonehouse.com.br). I build and
-operate fullstack products end to end: TypeScript/Node and React/Next.js on the web,
-Flutter on mobile, Docker and CI in production.
+Software engineer and founder of [ZeroOne House](https://zeroonehouse.com.br).
 
-Currently open to **fullstack, backend or platform** roles (remote, Brazil or international).
-Featured work: [core-access-manager](https://github.com/brenoluizdev/core-access-manager),
-[bonktools](https://github.com/brenoluizdev/bonktools) and
-[zeroonehouse-cases](https://github.com/brenoluizdev/zeroonehouse-cases).
+I build and operate digital products end to end, combining fullstack development, backend architecture, infrastructure and application security.
 
-Contact: [dev.brenoluiz@gmail.com](mailto:dev.brenoluiz@gmail.com)
+My main technologies include TypeScript, Node.js, React, Next.js, Flutter and Docker.
+
+Currently open to **Fullstack, Backend and Platform Engineering** opportunities.
+
+Explore my [portfolio](https://brenoluiz.com.br/) and [engineering projects](https://github.com/brenoluizdev).
 
 ---
 
 <div align="center">
 
-### Do zero ao um. Do código à produção.
+### From zero to one. From code to production.
 
-<a href="https://zeroonehouse.com.br">ZeroOne House</a> ·
-<a href="https://brenoluizdev.com.br/">Portfólio</a> ·
-<a href="https://www.linkedin.com/in/brenoluizdev/">LinkedIn</a> ·
-<a href="mailto:dev.brenoluiz@gmail.com">dev.brenoluiz@gmail.com</a>
+[ZeroOne House](https://zeroonehouse.com.br) · [Portfolio](https://brenoluizdev.com.br/) · [LinkedIn](https://www.linkedin.com/in/brenoluizdev/) · [Email](mailto:dev.brenoluiz@gmail.com)
 
-<sub>Goiânia, GO · remoto</sub>
+<sub>Goiânia, Brazil · Available for remote opportunities</sub>
 
 </div>
