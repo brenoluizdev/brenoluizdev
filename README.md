@@ -120,7 +120,7 @@ How I use AI coding tools, measured locally from their own logs with [**ai-usage
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/brenoluizdev/ai-metrics/main/metrics.model-2.svg" alt="AI usage dashboard: sessions, messages, tokens and active days, sessions per month by tool, and the most used projects" width="100%" />
+<img src="https://raw.githubusercontent.com/brenoluizdev/ai-metrics/main/metrics.model-2.svg" alt="AI usage card: sessions, messages, tokens and active days, and sessions by tool" width="420" />
 
 </div>
 
