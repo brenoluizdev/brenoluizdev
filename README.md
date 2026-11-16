@@ -114,6 +114,16 @@ Open-source tools, experiments and engineering projects.
 
 </div>
 
+## AI usage
+
+How I use AI coding tools, measured locally from their own logs with [**ai-usage-metrics**](https://github.com/brenoluizdev/ai-usage-metrics), an open-source CLI I built. No conversation content leaves my machine: only counts and dates are published, and project names are anonymized.
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/brenoluizdev/ai-metrics/main/metrics.svg" alt="AI usage dashboard: sessions, messages, tokens and active days, sessions per month by tool, and the most used projects" width="100%" />
+
+</div>
+
 ## Currently open to opportunities
 
 Interested in **Fullstack, Backend and Platform Engineering** opportunities.
